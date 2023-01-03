@@ -1,5 +1,38 @@
 #title{
-    color: green;
-    height: 300;
-    background-image: url("");
+    color: yellowgreen;
+    height: 600px;
+    /* background-image: url("Screenshot\ \(3\).png"); */
+    background-color: darkgreen;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-bottom: 0vmax;
+    text-align: justify;
+    padding: 5px;
+}
+p{
+    color: black;
+}
+body{
+    color: blue;
+}
+.style{
+    height: 200px;
+    width: 200;
+    background-color: darkgreen;
+    text-align: center;
+}
+.blog{
+    color: aliceblue;
+}
+.green{
+    background-color: green;
+    padding: 5px;
+}
+.middle{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
